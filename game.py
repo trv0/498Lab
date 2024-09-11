@@ -1,4 +1,3 @@
-# Troy Ventura Lab 498 
 import random
 
 def ask_question(question, answer):
